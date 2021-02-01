@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="34d2193d-a971-4119-85b6-7cf14ea10be5" name="bitfrost.mediaopl.nl" url="http://bitfrost.mediaopl.nl">
+        <fileTransfer accessType="SFTP" host="ftpupload.net" port="21" sshConfigId="22d5fabb-3b82-4535-ba03-4bed5121e102" sshConfig="bitfrost.mediaopl.nl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

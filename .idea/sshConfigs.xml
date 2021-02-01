@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ftpupload.net" id="22d5fabb-3b82-4535-ba03-4bed5121e102" port="21" customName="bitfrost.mediaopl.nl" nameFormat="CUSTOM" username="epiz_27671466">
+        <option name="customName" value="bitfrost.mediaopl.nl" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
