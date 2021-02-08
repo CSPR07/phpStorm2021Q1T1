@@ -23,5 +23,15 @@
 <a href="h5/index5.php">
     <button>h5</button>
 </a>
+<br>
+<br>
+<a href="h6/index6.php">
+    <button>h6</button>
+</a>
+<br>
+<br>
+<a href="h7/index7.php">
+    <button>h7</button>
+</a>
 </body>
 </html>
